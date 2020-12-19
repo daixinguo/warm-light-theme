@@ -3,8 +3,14 @@
     "displayName": "Warm Light Theme",
     "description": "这是一个暖色明亮的主题，能更好的保护您的眼睛。欢迎下载体验！",
     "publisher": "寻鹿科技",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "homepage": "https://github.com/daixinguo/warm-light-theme/blob/master/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/daixinguo/warm-light-theme.git"
+	},
     "bugs": {
+        "url": "https://github.com/daixinguo/warm-light-theme/issues",
 		"email": "daixinguo57@163.com"
 	},
     "keywords": [
@@ -24,6 +30,11 @@
 	"galleryBanner": {
 		"color": "#FFFCF4",
 		"theme": "light"
+    },
+    "author": {
+		"email": "daixinguo57@163.com",
+		"name": "daixinguo",
+		"url": "http://www.ynxunlu.cn"
 	},
     "contributes": {
         "themes": [
@@ -32,6 +43,13 @@
                 "uiTheme": "vs",
                 "path": "./themes/Warm Light-color-theme.json"
             }
-        ]
+        ],
+        "iconThemes": [
+			{
+				"id": "vscode-simpler-icons",
+				"label": "VSCode simpler Icons",
+				"path": "./icons.json"
+			}
+		]
     }
 }
