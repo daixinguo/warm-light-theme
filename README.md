@@ -7,7 +7,7 @@
 ![Screenshot](https://raw.githubusercontent.com/daixinguo/warm-light-theme/master/images/2.jpg)
 ##
 ![Screenshot](https://raw.githubusercontent.com/daixinguo/warm-light-theme/master/images/3.jpg)
-## 自带一套微调过的 VSCode simpler Icons 文件图标主题 可设置文件图标主题为 无 禁用文件图标后可生效
+## 集成了一套微调过的 [davidbabel.vscode-simpler-icons](https://marketplace.visualstudio.com/items?itemName=davidbabel.vscode-simpler-icons) 文件图标主题
 ## 作者
 寻鹿科技-小鱼
 <br />
