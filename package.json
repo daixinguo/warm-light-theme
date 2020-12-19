@@ -1,0 +1,37 @@
+{
+    "name": "warm-light",
+    "displayName": "Warm Light Theme",
+    "description": "这是一个暖色明亮的主题，能更好的保护您的眼睛。欢迎下载体验！",
+    "publisher": "寻鹿科技",
+    "version": "0.0.1",
+    "bugs": {
+		"email": "daixinguo57@163.com"
+	},
+    "keywords": [
+		"Warm",
+		"Light Theme",
+		"Color Theme",
+		"Accessible Theme",
+		"Theme"
+	],
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.png",
+	"galleryBanner": {
+		"color": "#FFFCF4",
+		"theme": "light"
+	},
+    "contributes": {
+        "themes": [
+            {
+                "label": "Warm Light",
+                "uiTheme": "vs",
+                "path": "./themes/Warm Light-color-theme.json"
+            }
+        ]
+    }
+}
